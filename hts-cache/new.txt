@@ -1,4 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-18:52:41	98/98	---M-Z	200	added ('OK')	text/plain	etag:%223bf59eed88c9e67b85f432391cca51c5%22	https://dennyzelly.framer.website/robots.txt		(from )
-18:52:42	80395/80395	---M-Z	200	added ('OK')	text/html	etag:%223d2ba30904fa12c8806124b03c9f97a8%22	https://dennyzelly.framer.website/	D:/My%20Websites/Denzel%20Portfolio%202022/dennyzelly.framer.website/index.html	(from )
-18:52:42	3677/3677	---M--	200	added ('OK')	image/png	etag:%22c6bff91066e875fbdf309b664c3e30a7%22	https://framerusercontent.com/sites/icons/default-favicon.v3.png	D:/My%20Websites/Denzel%20Portfolio%202022/framerusercontent.com/sites/icons/default-favicon.v3.png	(from https://dennyzelly.framer.website/)
